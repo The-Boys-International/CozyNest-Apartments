@@ -1,0 +1,51 @@
+{% extends "layout.html" %}
+{% block title %}Welcome to CozyNest{% endblock %}
+{% block page %}Landing Page{% endblock %}
+
+{{ super() }}
+  
+  
+  {% block content %}
+  <div class="container">
+    <!-- Video Background -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='CSS/landing.css') }}">
+    <div class="video-background">
+        <video autoplay muted loop id="apartmentVideo">
+            <source src="{{ url_for('static', filename='Background_Video.mp4') }}" type="video/mp4">
+        </video>
+        <div class="video-overlay"></div>
+    </div>
+
+    <div class="container">
+        <section class="description">
+            <h1>Browse From A Wide Range of Apartments</h1>
+            <p class="company-description"> 
+                Experience luxury living with our curated selection of premium rentals.
+            </p>
+            <a href="{{ url_for('listings_views.show_listings') }}" class="cta-button">View Listings</a>
+        </section>
+
+        <!-- Features Section -->
+        <section class="features">
+            <div class="feature-box">
+                <img src="{{ url_for('static', filename='images/Keys.jpg') }}" alt="Easy Move-In">
+                <h3>Easy Move-In</h3>
+                <p>Get your keys the same day you apply</p>
+            </div>
+            <div class="feature-box">
+                <img src="{{ url_for('static', filename='images/ClockSupport.png') }}">
+                <h3>24/7 Support</h3>
+                <p>Our team is always available to help</p>
+            </div>
+            
+            <div class="feature-box">
+                <img src="{{ url_for('static', filename='images/verifiedowner.png') }}" alt="Verified Owners">
+                <h3>Verified Owners</h3>
+                <p>All properties carefully vetted</p>
+            </div>
+        </section>
+    </div>
+    <script src="{{ url_for('static', filename='landing.js') }}"></script>
+
+  </div>
+    {% endblock %}
