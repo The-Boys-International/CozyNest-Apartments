@@ -1,0 +1,110 @@
+{% extends "layout.html" %}
+{% block title %}Welcome to CozyNest{% endblock %}
+{% block page %}Listings Page{% endblock %}
+
+{{ super() }}
+{% block content %}
+  <link rel="stylesheet" href="{{ url_for('static', filename='CSS/listings.css') }}">
+
+  <!-- For main block -->
+  <div class="container">
+    <h1 class="page-title">Listings</h1>
+    <div class="search-container">
+      <div class="sidebar-toggle">☰ Filters</div>
+      <div class="sidebar-overlay"></div>
+      
+      <!-- Sidebar  -->
+      <aside class="sidebar">
+          <div class="sidebar-header">
+              <h2>Search & Filters</h2>
+              <button class="close-sidebar">&times;</button>
+          </div>
+          
+          <div class="search-filters">
+              <div class="search-container">
+                  <input type="text" id="searchInput" placeholder="Search listings..." onkeyup="filterListings()">
+                  <i class="fas fa-search"></i>
+              </div>
+              
+              <div class="filter-section">
+                  <div class="filter-group">
+                      <label for="priceFilter">Price Range:</label>
+                      <select id="priceFilter" onchange="filterListings()">
+                          <option value="">Any Price</option>
+                          <option value="0-2000">Under TT$2,000</option>
+                          <option value="2000-3000">TT$2,000 - TT$3,000</option>
+                          <option value="3000-4000">TT$3,000 - TT$4,000</option>
+                          <option value="4000+">Over TT$4,000</option>
+                      </select>
+                  </div>
+                  
+                  <div class="filter-group">
+                      <label>Amenities:</label>
+                      <div class="amenities-checkboxes">
+                          <label><input type="checkbox" class="amenity-filter" value="WiFi" onchange="filterListings()"> WiFi</label>
+                          <label><input type="checkbox" class="amenity-filter" value="Pool" onchange="filterListings()"> Pool</label>
+                          <label><input type="checkbox" class="amenity-filter" value="Parking" onchange="filterListings()"> Parking</label>
+                          <label><input type="checkbox" class="amenity-filter" value="Kitchen" onchange="filterListings()"> Kitchen</label>
+                          <label><input type="checkbox" class="amenity-filter" value="AC" onchange="filterListings()"> AC</label>
+                          <label><input type="checkbox" class="amenity-filter" value="Laundry" onchange="filterListings()"> Laundry</label>
+                          <label><input type="checkbox" class="amenity-filter" value="TV" onchange="filterListings()"> TV</label>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </aside>
+      
+      <!-- List -->
+      <div class="apartments-grid">
+        {% for apartment in apartments %}
+        <div class="apartment-card">
+          <div class="card-image">
+            <img src="{{ apartment.images[0].image_url }}" alt="{{ apartment.address }}">
+          </div>
+          <div class="card-content">
+            <div class="card-rating">
+              {% for i in range(apartment.avg_rating - 1) %}
+              <i class="fas fa-star"></i>
+              {% endfor %}
+
+              <span>{{ apartment.rating }}</span>
+            </div>
+            <h3 class="card-title">{{ apartment.address }}</h3>
+            <p class="card-location">
+              <i class="fas fa-map-marker-alt"></i> {{ apartment.city }}
+            </p>
+            <p class="card-price">TT${{ apartment.price|number_format }}/month</p>
+            <div class="card-amenities">
+                {% if apartment.amenities.wifi %}
+                  <span class="amenity-tag"><i class="fas fa-wifi"></i> WiFi</span>
+                {% endif %}
+                {% if apartment.amenities.pool %}
+                  <span class="amenity-tag"><i class="fas fa-swimming-pool"></i> Pool</span>
+                  {% endif %}
+                {% if apartment.amenities.parking %}
+                  <span class="amenity-tag"><i class="fas fa-parking"></i> Parking</span>
+                  {% endif %}
+                {% if apartment.amenities.kitchen %}
+                  <span class="amenity-tag"><i class="fas fa-utensils"></i> Kitchen</span>
+                  {% endif %}
+                {% if apartment.amenities.tv %}
+                  <span class="amenity-tag"><i class="fas fa-tv"></i> TV</span>
+                  {% endif %}
+                {% if apartment.amenities.air_conditioning %}
+                  <span class="amenity-tag"><i class="fas fa-snowflake"></i> AC</span>
+                  {% endif %}
+                {% if apartment.amenities.laundry %}
+                  <span class="amenity-tag"><i class="fas fa-tshirt"></i> Laundry</span>
+                {% endif %}
+            </div>
+            <div class="card-actions">
+              <a href="/details/{{ loop.index }}" class="view-button">View Details</a>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+  </div>
+
+  <script src="{{ url_for('static', filename='js/listings.js') }}"></script>
+{% endblock %}
