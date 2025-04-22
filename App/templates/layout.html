@@ -1,12 +1,14 @@
+
 <!doctype html>
 <html>
   <head>
   
-    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <meta charset="utf-8">
      <!--Import Google Icon Font-->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <!-- Compiled and minified CSS -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='CSS/layout.css') }}">
+    <script src="{{ url_for('static', filename='layout.js') }}"></script>
     <!--Let browser know website is optimized for mobile-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>{% block title %}{% endblock %}</title>
@@ -14,48 +16,30 @@
   </head>
   <body>
     
-      <nav class="purple">
-          <div class="nav-wrapper">
-              <a href="#!" class="brand-logo center">{% block page %}{% endblock %}</a>
-              <ul id="nav-mobile" class="left">
-                  <li><a href="/">Home</a></li>
-                  <li><a href="/users">Users Jinja</a></li>
-                  {% if is_authenticated %}
-                    <li><a href="/identify">Identify</a></li>
-                  {% endif %}
-                  <li><a href="/static/users">Users JS</a></li>
-              </ul>
-              {% if is_authenticated %}
-              <ul id="nav-mobile" class="right">
-                <li><a href="/logout">Logout</a></li>
-              </ul>
-              {% else %}
-              <form class="right navbar-form" method="POST" action="/login" style="display: flex; flex-wrap: nowrap; align-items: center; margin-right: 10px;">
-                  <div class="input-field" style="margin-right: 10px;">
-                      <input placeholder="username" value="bob" name="username" type="text" class="validate" required>
-                      <label for="username">username</label>
-                  </div>
-                  <div class="input-field" style="margin-right: 10px;">
-                      <input placeholder="password"value="bobpass" name="password" type="password" class="validate" required>
-                      <label for="password">Password</label>
-                  </div>
-                  <button type="submit" class="btn waves-effect waves-light">Login</button>
-              </form>
-              {% endif %}
-              
-          </div>
-      </nav>
-      <style>
-          .navbar-form label {
-              color: white !important;
-          }
-      </style>
+    <nav>
+      <a href="{{ url_for('index_views.landing_page') }}" class="logo-link">
+          <img src="{{ url_for('static', filename='images/Logo.png') }}" alt="Company Logo" class="logo">
+        </a>
+      </div>
+      <div class="dropdown">
+        <button class="dropdown-toggle" onclick="toggleDropdown()">Menu</button>
+        <div class="dropdown-content" id="dropdown-menu">
+          {% if user.is_authenticated %}
+            <a href="{{ url_for('user_views.create_listing') }}">Create Listing</a>
+            <a href="{{ url_for('auth_views.logout') }}">Logout</a>
+          {% else %}
+            <a href="{{ url_for('auth_views.signup') }}">Sign up</a>
+            <a href="{{ url_for('auth_views.login') }}">Login</a>
+          {% endif %}
+        </div>
+      </div>
+    </nav>
 
     <div class="container" id="content">{% block content %}{% endblock %}</div>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
     <script>
-       M.AutoInit();
+      
+        M.AutoInit();
 
         {% with messages = get_flashed_messages() %}
           {% if messages %}
