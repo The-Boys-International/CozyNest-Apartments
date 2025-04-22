@@ -3,7 +3,6 @@ from App.controllers import create_user, initialize
 import json
 index_views = Blueprint('index_views', __name__, template_folder='../templates')
 from App.models import Listing, User, Amenity, Images, db
-from flask_login import current_user
 from flask_jwt_extended import jwt_required, unset_jwt_cookies, set_access_cookies, create_access_token, get_jwt_identity
 
 def get_current_user():

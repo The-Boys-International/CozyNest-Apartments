@@ -4,6 +4,7 @@ from flask_uploads import DOCUMENTS, IMAGES, TEXT, UploadSet, configure_uploads
 from flask_cors import CORS
 from werkzeug.utils import secure_filename
 from werkzeug.datastructures import  FileStorage
+from flask_jwt_extended import JWTManager
 
 
 from App.database import init_db
@@ -30,7 +31,7 @@ def create_app(overrides={}):
     configure_uploads(app, photos)
     add_views(app)
     init_db(app)
-    jwt = setup_jwt(app)
+    jwt = JWTManager(app)
     setup_admin(app)
     @jwt.invalid_token_loader
     @jwt.unauthorized_loader
