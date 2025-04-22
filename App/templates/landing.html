@@ -7,7 +7,7 @@
   
   {% block content %}
   <div class="container">
-    <!-- Video Background -->
+
     <link rel="stylesheet" href="{{ url_for('static', filename='CSS/landing.css') }}">
     <div class="video-background">
         <video autoplay muted loop id="apartmentVideo">
@@ -23,12 +23,11 @@
                 Experience luxury living with our curated selection of premium rentals.
             </p>
         {% if user %}
-        <a href="{{ url_for('index_views.home_page') }}" class="cta-button">View Listings</a>
+            <a href="{{ url_for('index_views.home_page') }}" class="cta-button">View Listings</a>
         {% else %}
             <a href="{{ url_for('auth_views.login') }}" class="cta-button">Login to View Listings</a> {% endif %}
         </section>
 
-        <!-- Features Section -->
         <section class="features">
             <div class="feature-box">
                 <img src="{{ url_for('static', filename='images/Keys.jpg') }}" alt="Easy Move-In">
