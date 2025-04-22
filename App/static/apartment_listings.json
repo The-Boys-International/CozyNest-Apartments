@@ -1,0 +1,3869 @@
+[
+  {
+    "landlord_id" : 1,
+    "city": "Couva",
+    "address": "189 Independence Sq, Couva",
+    "price": 3000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "amenities": [
+      "Kitchen",
+      "Laundry",
+      "Parking"
+    ],
+    "carouselPhotos": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/c6c062dff7216f0715e224ea3c8eb3e8-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/a75b23f854908ffe525a9ab0464e7d15-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/cc243d332c1ed0e1e891fc280350c0de-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/c5aa246434f2122171ad5e57fc45b68c-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/4367b16dbecebb6ac4d6f34797705633-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/279140bd9c7900b1ff9fd3ba48195329-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/7c608267ba5770a72fb5c3fa0972570d-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/ecb2fbd00edeb82eeef4dc441230d19b-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/692cdb75c015bf8d6bf4f8ee9877f150-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/a3d4f032c91c3335ee9dad27337c464f-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/9d1d103cb60f514c97e03439dfc32968-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/e1864bd5a65a21a2ffa3397ca98f5135-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/ada7ec76184558fd714e25c88fc67921-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/f40244a205015e49d6e573f30b6e0350-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/fc47c04086eb7c8b121b09cc07fd2a8a-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/00244d91dff38b572a3493eaf3719050-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/fe57a98810311864463668b2504ed8cd-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/b22c309b7e454c2eaad64b4bdaa195ff-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/61514a2834927e7b715c507d9b1375ea-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/3c6aad7b1990ff49f2884be78897d123-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/c3a5dc9cabe15be4a47060b2009fcf17-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/6e771d28f9fbae3134e7d6ee63258e65-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/f1ea3df20cfedd976b9dd769cbdb6de1-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/f99b7b7687d3186e6ac3e6a9f3d6505e-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/5d1270d73d15197790153aeb6ee09534-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/a98c9cd0fff03214a8ab1390b9154a75-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/41c64fe92b2ba6b95b9434bb6052816e-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/1c1746d710826d7c920af73b2c22f52a-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/1598e63816ab1ca1a905ec5cead1f8af-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/853bf48e8e0b978511122ea8f6723898-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/1eadf6d60b9fc23110b7d15285ae67a6-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/c1118fa3c41d4f6076a4e09d86aa5e83-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/e39e69173e47f3e4f24c225106b7642b-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/3f6aea44671d899ee224b863589a53e4-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/e1a4f1a9f9cfa5c21af49e051d2d2c72-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/63350e8417a54b2d91a5b5a35878057f-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/c9886380fb0fd5d25e1b8ee2f3456bc3-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/dc545f573636c51d2a35104887a2bad4-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/0a55b393bef7711a29f2b52f31fff648-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/cf83c8c00f4d70d88508dbc5e1b94533-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/9b59dee4381fbdfadeebda57e798c5a3-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/d5e5857b95e8e0be4f72239cf9ed2e07-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/c24af1fe52c9dd2780fafbd38cd29d9b-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/b46944dcbbc54595780081b3b1ae464c-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/66f160e7144b35f2585ce2f91a483535-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/2f556e368a5f21c1d562c7bbdc1928a5-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/ec532e95e187e9864275493b7b68884a-p_e.jpg"
+      }
+    ]
+  },
+  {
+    "landlord_id" : 1,
+    "city": "Mayaro",
+    "address": "76 Independence Sq, Mayaro",
+    "price": 2000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "amenities": [
+      "Pool",
+      "TV",
+      "WiFi"
+    ],
+    "carouselPhotos": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/dca8e79a0d4c4561ab427c7f5479cb65-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/75bf6011df89d087e2b19aa4e25194a9-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/04dd576cdc7009805a7f52035fcf7dd3-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d052dd86c8792a6edbf3b4a8943b14c4-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a7f03cf348949586f6ec4152da2a2eeb-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/2eb70b6713ba571f26e25de551a2bb24-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/5d677336d0eb3d00cfe8bed9a190f8ab-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/9891a8f24dc2e9640177e476466aa727-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/80bcf9768972d85bab2b8905124230ee-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f042b87d249f441972351aaed57fca56-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/556f9c18f4e94c37d888d50881ad784b-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/0418306e38087152bcc9ebb192798ba2-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7bc18e5f1df0ec7f12f22d2981d204fa-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/cce381a3525d2f59034690ae8b1f029b-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/8d2798ade74485abf3836952851cc64c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c6f916a39f993f0e0d7c5f8ecb15c883-p_e.jpg"
+    }
+  ]
+  },
+  {
+    "landlord_id" : 1,
+    "city": "Couva",
+    "address": "237 Churchill Roosevelt Hwy, Couva",
+    "price": 3000,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "amenities": [
+      "Laundry",
+      "Kitchen",
+      "Pool",
+      "WiFi",
+      "Parking",
+      "AC"
+    ],
+    "carouselPhotos": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/5d7fc370754198a9e89dc38fefb4a696-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c81704ac4d0ff8ed97d3f137da115f15-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/8159ab97f722061ae5f6f5d6e11e2500-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a3f258523c69d4b3f7b0b194e7df2ca4-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/e35c9959829cc0bdf076ad805298ad71-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/cb0f0bda64a3697579c6aeb50e68dd76-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/23cddcdbc9f2ebed3c8d2754c687b80f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/4e2642ae0bfc11ae2fdaf1981e386ed0-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/456ba18ea87862fb91e148c5bc50401a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a3cc2575c26dbaa60c907a80da2088a8-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d7311c6de6f47ee07071bec17c0462b9-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/1c3115de1a2b84a938487dbbea3fd0b6-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c93113bf98591b899b28153d055222ae-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/fe94021fd9b1a57eb465539f73a005e2-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/79f09337ec229ab79a91459ee2182771-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/58c4558f0df66ff887cc67a95f1365d6-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/275eba19b46459ed3788522e7b5ebcfc-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a98a52581dcd9ca6375f4630a79c9835-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f64776709fe8d84d7ba95c429a72be36-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/924879eb5a373caa2ec5604a3e989ea8-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/90dcb355f2a5d928316ba8b65cb6f8b1-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/59653078f05e7cf23fbc7c7042a7daa2-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/921fd33463b8df63dad1360ebe09588d-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/4c71bf5aa48ce79238531b397cc0fdf0-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/31a6417b535cd40b3f1c9524b6aec5e8-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/2fdcdc17f0b21597a016df12129bb6d7-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/db404561ea6ea1e841c598613eadf464-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/04f7cdad0ceda108fe21a78e1ef40658-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/08c612dd1c1900853b0532580ac2ba10-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d81884ca4404b8587c522972ace6d0ff-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/953d1c12172cb57d94ecd1bd9a11f6cd-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/3e9fd66c56a2b36df1a1107843bd278f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7900a3528ea23c4cbaeb50ba607c9328-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a2dee21f8591676158a249ceb9070327-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ff80406fe666b2f92227c0267677995a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/855d7d84bc477fe986fecf8a397424b3-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ac5fdd5f1858bd45781c4ca693985086-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/60501a6486a28d6f148395058603d368-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/59ecbf30c4008ede717aa76ed1f263a3-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6b5db25b05d3805c2e1ac0268c3aa998-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d37192f5911ef68a1bd9f98ef3805f5a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/04bd0dfa75833e4f5cd3949f4a8f5162-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/e495690d790f982e1590728e452eccaf-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a8a6dbba71056b5d7d385f82ce65d63a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6966882482f1767ec5e5fd8ab6f44343-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/8076e91b058a9773b8acbdf96326ecce-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6e17f74de771cabd4812831fc2832928-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/29149d390e9d5d9df76d50186db9ba59-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7266eafad7275bfb8edd1cc3ceca57bc-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/1a367f3486e618b06c7ff4173ed77cfc-p_e.jpg"
+    }
+  ]
+  },
+  {
+    "landlord_id" : 1,
+    "city": "Chaguanas",
+    "address": "159 Queen St, Chaguanas",
+    "price": 2000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "amenities": [
+      "AC",
+      "WiFi",
+      "Kitchen",
+      "Laundry"
+    ],
+    "carouselPhotos": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/f7c3f5735acb669ee2afc04ac67f533f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/de8bcc3504c529f4e4f838ed68043040-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/79e14616361ad5cfed5ad214b8e47845-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/3a304fa903b7be2a8c130f00c9bbfc03-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7027cba634af1439621c50c054c5a39e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/73392aa0ebce45b85d8d87dbf821dfde-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7a5bb5e3b899300bda7e07b782ca6952-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/22b6ca22bba365278f0c681eecafa9dc-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/099f808447dd066c6efd17c75255bf73-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b87c8bdadf2fab1c6c98d51cc10de8dd-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/981742d791fa82c8be45106c3840193f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c4c8bb22f1e50b0ce0bacf10e06f03dc-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/02422a88c6ee0542a8ce9de0eead1b96-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a03dc0e0bfb7053530618039b48e92dd-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/22ae149dd416f2242d6c1bf288c3c8cb-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/4e96bc75a909383d81d8755096087cea-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/aa8ba38ca027a0a6a3ed3a758dc8c564-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b0164f984f4c32c1a706528f9721e999-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/636bc006a398c86b2aaaeb97f759eeb0-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/449143d3adb3f8bd17a4c65deaa2bd65-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/cc4f687794e08b981b4924d9e5a1cf24-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b9ab982b74ad3a26a2872ae4e10d7fee-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ba478394b628b569e1f28a25d5d5d9c3-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/189a1a0a13a795c8cb12aeda51d4de29-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/2dc2bc2b4f26d5f5c6e59ea7ac59de08-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f7ec4c97f646b97f6d080a6d53dfa840-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/522704ca0b4a0704835cac85ac8721b6-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/75fc5e98681a7a712dc2a2425a7aa381-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/baa3da464df94681746f7a9e932a76c3-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/27b889b18199249b27f478c4f4a447d6-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f7ad426cbfa83e61ce51f9d60057e3ed-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/80e986b1d5d297b0d866cbec50aa0f9b-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c4b6f461b231300f7ba21eaf3f712e9f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6eb1f0e91b17bdbcc43bf51778f1b4d2-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b2312c7bbce54aac3fde52fc02141394-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/5f16a88eb36c07c3412b34b323edf028-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/9e2481ad34f3bc4bf32fec4dc5ab013e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c59bcc561928a06b5ecd94e967573456-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/9f13b2b4150ae31eeb8f28cdc4cc2dc5-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/0b1bdb23c8b0331db956501aed185966-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/fd4955c50982cda217c273e7cccfb4a7-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/e642eb1c19ef900d39bf9c2872626156-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7a3631bfbe7c2b2a3df14e4ed6425e30-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/fb91bd7d5860e4b2d79db9758ce5fa14-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/90dc3ad99c15fd4f317001f008622357-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/cb50d699b235f76d47a61f166a1f9dbd-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/82c054ceda3e77069a7dae4ca0bd045d-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/1a2297c9e0532509e32a023682c3a3ff-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/1bad2af55bdd984618de6fff455d6f5e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/19f5dfe3b76d16622d14c1c39c4bd705-p_e.jpg"
+    }
+  ]
+  },
+  {
+    "landlord_id" : 1,
+    "city": "Tunapuna",
+    "address": "189 Main St, Tunapuna",
+    "price": 1500,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "amenities": [
+      "AC",
+      "WiFi",
+      "Kitchen",
+      "TV",
+      "Pool"
+    ],
+    "carouselPhotos": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/274024ea25080bda64a9a56dcff34a11-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/87c0e3b53695861e77311b32c9cddd71-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/3ad1a9ca0480f81f8f7c17d5835680b5-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/734d5ddee56bae871e9226fad15bc72e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/e3fd41d621e10ef46bb4e9dce8b32891-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/0b1589ea2473b41a343dc50b2361cf6f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/631a66a2292c57f5d5e572094c009381-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/863cf96d04b4438a7c9e0fe7bea84662-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/bd61adf9a181cd05215bf0965ddd4436-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/42408bb303cc98d1f325b9433c3a100c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/e9c241d2e1ed36067c0e3565f6b55738-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d5a0a7cda793f194cfcf16f4aeca6b5d-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/3a3e63c3a4d48e77cb3a1c72f125ada3-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a3b12fb77d1ba3a11582696a17702c48-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/09580c0527ca004e31411cf56514f226-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d3e92ab766ee24c2af90cb3b3995cdf2-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/812fd590e48702bf278de6cb11bab9d7-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/31a4c67df331c697c72667abeb1c72bc-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/2c69d9541281bfe1c663b7c4053c644a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/0688072628b36a57fea4716e31a23308-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6251cb0cdb72f54dd47145ba8545d027-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ec5190393e7c10360670a2b90ceff933-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/91cb9d69410d0e8dfd4563fd1fbdb94e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/26b29b5364383384bbe163ce985c8e7d-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d962228e2052fe7643d0c63e3624b778-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f7a73542837fa529cc9f6ce9f540e679-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/bd10f95757bb8e51ae96f563f9159cc4-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7bff6241dc1dff70e8830377f1015032-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/57b204072485f593fe86a4d4c713e599-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/24c70be2cad8328f05d029468534ddca-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/79a5ab6a049370133e1efc253b6cbb9a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7bb6fa776f73f2261059d398047a6dc3-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b776e95e53e7fd2db7c9f658bbab53c6-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7a37507d0670012ca9095df9e2b7393c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/bcaea5d50550e73515e4a1c95505e321-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/9280e11c1d0eb9fdf9e817df97d57a73-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/3ec8a484836de17cf333bdc401b16e27-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/40f6de3e12d5cecefac97c97b3baa31b-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/574518171ce619b6d63f68c726f20f35-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/88528edceaf8b61993b82c7f6b9dfd10-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/668a92add29d07fcfa6d84053c68da4a-p_e.jpg"
+    }
+  ]
+  },
+  {
+    "landlord_id" : 1,
+    "city": "Arima",
+    "address": "237 Main St, Arima",
+    "price": 3500,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "amenities": [
+      "TV",
+      "AC",
+      "Parking",
+      "Laundry",
+      "WiFi",
+      "Kitchen",
+      "Pool"
+    ],
+    "carouselPhotos": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/8c97508b71af3716671fdecc5d2f5b1f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/92453f5afaa518608759a555b62e78e6-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/5062459bb4dd3a6327ec4dd8b34127ad-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/0e0854f9bd35300cd64b1634a21311e1-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/e78c820e3af79cc99976c5f04a02d8ce-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f41ff115e170dcfd8cd08b4f834f8006-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b9eca662009f6917063d7908b06bca1e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/0c48d53ec7d288d7e5ebbbc3ec246ed3-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c4df6c8cfe651a5a1bc420094f51b526-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/e0a5a6d6467d44d7fe0d507f9186accb-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/2ec0055bda723ddb34ccbf699ece4fcf-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/32b979206f3a0a7e40c62a11b8ecb254-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/69046bfe9946e053fc0f96a7c57f4565-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ea4b79f11797a6b1c354c11f987969c3-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/4c5388c4e75728e080db6dcb5702f0f4-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/0230ae07fd38a7779446b324ed9a5344-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c49d169180e042f2758e115bad1655dd-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/30ddbf664512d2a621990d0fd19c0f0f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/36ae92179b7b74330112b993772edd17-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/04df07165d91b9369f1e758f656d9cd3-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/3f4832dd4e17df570eace52311e26921-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/0c348f49491d1d2102039b5c3cca6b5f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/956c93aab69a10278f927cecfce1e7b0-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/33987bf1a8e1495aa6dee9c7f3acf15e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/dd0fd1eadb179def5b9046c853c29a74-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/670dff9d71c8c0dd686c2ff4793d54f6-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6dca41e45f09a9cc333f8fa28824eaa5-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ae75091f6282ca406cf4738a3936c7bd-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b4ec58071d22560cf104f0f6601f6a42-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/add5a64f3a11e6a5bce91c83f9301451-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c2c3d9870cda160cb3d4828782c87569-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d4ca363d5047ef84bfb19606bab502c2-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/fcb74a4446df7168c93a6afac7c9cdcb-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/91e8700f8016775e446cae64806bec9c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/592be28f0361e559423450dc7a5772c1-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b9dbfe0ca892be0c234448dca2db6afc-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/58f8ca327f09591012b87eddadfc4017-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ca82a90c60274c0f19621b428d25aefe-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/37a5aefe712cc9d03a084e6a7c91c12e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ee3357c2a74a6697223f450e24a99cc8-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/bf0cf08597af3d73b2b725c9b0d72c14-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/42287165f73330998d9e042c9bf23d1a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/1dff4f5752a5e7a17f8ae46eb5e33853-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/959d50d8b9d0d5f64ce3650553e84a26-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ed906425893e8f314d9b85ff8964239d-p_e.jpg"
+    }
+  ]
+  },
+  {
+    "landlord_id" : 1,
+    "city": "Mayaro",
+    "address": "52 Queen St, Mayaro",
+    "price": 4000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "amenities": [
+      "Parking",
+      "AC",
+      "Pool",
+      "Kitchen",
+      "TV",
+      "Laundry"
+    ],
+    "carouselPhotos": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/2e7529d76edb7246f35f5d18bff066b6-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f11ef0a81e52291802514f655578c001-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/3451945772570ec5973ad03e70fe2a8f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/8e324e7f300b006256fe3b347af0c1e4-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ab8028cf7d14c24a824cf9ea993fd496-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/575b191a3d33e9b0420b067943af1e5a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7d8d7b647893ed80a798ccbe7e8953ef-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/351e7f7de30926a573d067c46ce155b8-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a12b62ab1e3bfbf776325412b0ad4195-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f99a93804125212273aedd6d9c14fd2d-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/411b37efa33a5d11cf02d518289fce71-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f5b7f3ebaa829e78c9ee2191d9fce350-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/e13e37f56ed0194b18d61f75023318b5-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/3ccd0276571b6e5849cc251fca1b8073-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/39fc455b7d52e243ddd30d839558e25d-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/bd1eb678bbdcfe7c75fc3951bf14a069-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ced1be89a972282444024b230781e4c6-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/da970c4df998b264d82de72ce40b29e1-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d42590ef2832f8d15cd8779e7a6416d1-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/2db38c93a1de56902a225699cd3e1a8d-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a1a42da4e31c962833a3a374e7e1db55-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/3039cf8774afb59d3beed28472edf92b-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/9ec55eedf1e6d344ced5e396067399f1-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/5b374e180ab380db12ac2d8de399af64-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/51972404e3284cf535cd17f58899131a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d5dd3160b8834e070f772d3dc6f69a09-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/604f374dd6882d230e4bf2617c69c5a1-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/de04370a1e4dd4e353b2b256c9ddc394-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/0dd29c84bb3b5eb78b0f50397f6993ec-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7c4f8227045597c99bb4560cabef720a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a23e4a1d7fe0c48ed029f4e238ebce23-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/9ec3f0b409ab36893c323b005d5caa69-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7281814485994cd4a4e6f93969c55f6f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ddc56590878266563eadbdf811e9adb8-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c3884626483c5cdce1553ce06eb43735-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/9b2bdc3bb24b7af20ef03c69acd19607-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/07af0756f6eca480670292c62a3cd04a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/14d9c7a86bf06416a5013c8b77bb89ec-p_e.jpg"
+    }
+  ]
+  },
+  {
+    "landlord_id" : 1,
+    "city": "Mayaro",
+    "address": "9 Eastern Main Rd, Mayaro",
+    "price": 2000,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "amenities": [
+      "AC",
+      "Pool",
+      "Kitchen",
+      "WiFi"
+    ],
+    "carouselPhotos": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/41eb5647ed150558db2a1fa722d84805-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/f5550548d1e3f3f50f4d67038fc35052-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/3c1eba689e5d3e7a0105b63f8fa416e2-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/b1ce8d0cac78d73fb4b4f9c4e208d7af-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/b501b803b63515688acb0a46a76a462b-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/7079f9172bd4832b9699309855f05f00-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/b42151ae0241dba752396c2d8c8bff33-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/2f469769ca0fcd0fe26e0f96a8c57ffb-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/5f4dea149524b21e7e9c36f13dd91a9d-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/bd596546c992132f2f28c088569bca5c-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/516e24243fd43af2aacc710e14a35c0a-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/36846beb9ca576c323a76c314d8b950e-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/3dff9d9b61a5fe0def18982f559c80e2-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/0ceba535de512efd898bcc634e12b77f-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/9c1edf5903d81366c9ca45909a8039f6-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/532dd9c7ce8b47d55db6ca23283c8172-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/c2e349f313e344adaad32df737941fcb-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/52eac4b70a3e76945363b613468546cf-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/1d75b3af7a81b7de50c6457e80a29f01-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/535ac11468f2c2b3282d1024bac565f9-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/f6eb167c57f136bed5b6af33471e07fc-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/6008b5c511ebce8a89d2152dbe9cafe3-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/49a434085bc0172d74dc0cedfa29c262-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/857d1b9d0e33fd5ea22e42901c84e9c0-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/bc437374a1514e8f7cc4c3214b2fde9c-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/8a0b4526eef34558d09e90f705a3ebcf-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/73708b07b7c0426e5cbcddb08b353c75-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/e12d338b17e6fe87500d9c8b1e21042d-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/7b2de9f95cf601d7de14f3ef38ae3a8f-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/c94a9d68aa4cfaa99694d6edd9cb82d1-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/93ef7ea68b23b57e5b606c351267402f-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/775a76166ee701d0074b255f74e1b016-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/834f0b3a751dd067df33d5f391179c4d-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/4d072b6940accb1de133ae45fb4bea71-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/1b3cdb03395cb7411e292ff560121c5a-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/b5b1efb5d833c3e7e30ac442fa6e2eac-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/f2b523779965aeb92fe6dec491cf12ef-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/f12579f5b42c4cdaaebd367de893bb8a-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/5a61c5a229af983c9f23f125fa098dfb-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/238b4887fa8a5fa6f4d4d00ae9afe3c2-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/55ceac1f2fc7550fb6a54771aad010e7-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/96a5bcb2ed1c62da064e088b6ee573ac-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/6442c2d58b9db1eab02c2e0431098e50-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/a9deb3d23d42abec41e762e688f409b4-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/2398d13c01cfa3a79cc6cab932ac2225-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/75c9c7455366c4351b30e1b18a68387a-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/bad17fabf2846857642b14bed59dd8f5-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/9c95d75aa5f238c53a489880226c77a9-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/dfee6110b66091b50eba93e00c79dad8-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/b6c95fc43719985a1fb08cb4b32a718b-p_e.jpg"
+      }
+    ]
+  },
+  {
+    "landlord_id" : 1,
+    "city": "Diego Martin",
+    "address": "173 Queen St, Diego Martin",
+    "price": 2200,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "amenities": [
+      "Parking",
+      "WiFi",
+      "TV",
+      "Kitchen",
+      "Laundry",
+      "AC",
+      "Pool"
+    ],
+    "carouselPhotos": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/0baeede54483d1909e3da6cb938e374b-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/8fa66eb4a62a790f419143face634f75-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/72e0f308f4bd6c85421011e33e174a31-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f7a6f5479504b4f8b43c9f28e832ea8c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f10e63d141ba2e04bb7db5ee524a40bc-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/5a43396742f284c40bc39d52ad19af5e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6dd70b5d0d16683eb04325d18911acd4-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/92b58b48364112f2efc76e4a3c1e80e0-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/888286d6e76e7d4dd58698df18124437-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/0536c1b4c05f061aae752d434f4b0357-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/12ded070882fc7c1bf72ce1a7dbd9280-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/99dc9f323e1f063b63d517aef389c131-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/bd0b21d3836427e137ae280a9610bea9-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/3f712ae411e1fa51da488645e6ef24e9-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/40919d16dd6c2c3990624b2b4f0a0109-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/4a14cd4bdd0c1012e106056f49ba940a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b9ddf2abbed25b9add5c552cc4407623-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/4d35d2ea5a02d4633e506e83de3e7b71-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/96c03ca1ade04c4a7abc8c47f5e342c0-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/4295a3d26fb7f502dc2d49a80aa0231b-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/28420d085bcec05e9f9d1fc60e42736d-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/127580017568a76308a970bf9fbe8a51-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/211b4567cd81e0c7498cc5bf66b73a2d-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/86c8936d49a84f6ba68a7f2a74d20e23-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/1fb6e62670deaf6ddae16c71d2a2e258-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b14c54acec4de822e157a4ada6c7ab2b-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/72a94af18997dbadf55fb6fa6ab5e481-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c6896ff2659c5936064bd3bf0a77550d-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/5294cf6d7611cfcd88e725acd94acbef-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/074734a39407ea332c786084d05ffc1a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/9f29d0c984c2ce3d0bbc62d1a858b44a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d4fcd05a7e7289b56d89f4554e15277d-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/0568af3da35cc02d5e81380a0308dbec-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/daeaed47fe8cdd6aad9510ee8e35577e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/cc2c7777d06de04c0e284fcff52d4ae3-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/62238ac8b24b07a74393b2676a7cf25f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/866872b453f8cd6b81de82b4d8a5c9ba-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a25342efbafdd695df97585daa166ef6-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/33ebd56a6432cd616c53a9fed6ff2c0c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f921201d71b1fda2a9f97ca2aeff71e1-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/82ff57b84684048c363bad5daadaca99-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7b084fa8425680c540d9919fd688de0f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ca28c0c20fcefdb1ce97c4adc1921102-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/546c6f00bc26e437e0a7965b61b12f32-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/9a9fceacbb1ea6eb8aede0ad0283c57d-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6f30f5966f2bfd48d5767bf196d76702-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ed0e7ea56819edaf5c687eb1a14b6e2c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7a5c12b27cedeb0ea75ae94f8d93d745-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/48f13a73021591931356bc299261e348-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/e5ba4c215737c4f9b54712ad4e3ca5b6-p_e.jpg"
+    }
+  ]
+  },
+  {
+    "landlord_id" : 1,
+    "city": "Tunapuna",
+    "address": "191 Main St, Tunapuna",
+    "price": 3200,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "amenities": [
+      "TV",
+      "Parking",
+      "WiFi"
+    ],
+    "carouselPhotos": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/84ed6adf9a4eda784fe63840f468d951-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a5e8b236a48e3ad1b13f60ff3d7cd781-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b7f7630eac98377e63c37ee4b44a854c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/bd7ad95a7be4d974a1a64ee95014ce44-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/913747e8fa88abf37ce7b4fd523eb1aa-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/e90af02debb9e153d23e8d15db4a0dac-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/95ec5e30368ab1eb23ae4592a1290087-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f688a7e843f133fe68c24e422a13e29a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/32132a43e2f2e24b7f238d1df7c82a26-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/78b5123bded2f88162aa700728b9a9c2-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6581ed2a99d88360f10c5ccb6bd26c30-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/37a1d4ebcd920420d4ecdc34a25f2932-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d33f5e8d7bf1055824e12295f35db616-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/eab8e643ca9b3ce0ba12807eb08f41da-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/07fa5f5203be089d0ec8662ee5418c2d-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b0256f92f133a07f81978162d7496fd6-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d23b716c380f88cf07cc9a52c53119f2-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/34143bcfca1e13579e0243b16e49bb4a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6ee584656f9946dd66c161aa4aaef083-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/092382807c2f1d1bf8a74ebd963707b0-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/85af5cb91a5413364f3a6ec8a09ed5f3-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/e2a2008d24fe88da7aed2c95cf51009f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ede17ddeb17bd76c507a79c35e440bf0-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/93e8a78f8d7240ba28f42c05b47b886f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f3ee148ccdbee2ff652898692520e477-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/fab2b6b9ec14075eb1bd1cc26b5d1a35-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/37898426c8724e7056592535d85c6e47-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b8209033df7e92226db81b1e615ec5b7-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6f7fc7f6035fecc71de1c39bb8e5b949-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7b4c990d6f281c82a87f612561abebb1-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ea8946215d865dfab871c1b38c2bdc2e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/2663b538d29da60afef937a30c395a0d-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/695d50644a9f6afcfc52d971ea1e26be-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a9d3f27b773cc6fdd80c02221e21bbab-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/8c88dc68055b8e59552111525ada5907-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f9590302369f7786d716c1559bdc008e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7682a12e12f618cd45ce7fa2dd0a2882-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/1f7c78ede527b4c5ff7683e0a4d4d5ff-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f13ad2be928fd8beb8b44fefc44198ee-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/510aece1928020fa050d38a0c1cb848b-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/472d269c1a8a1cb8dfdbbc4098c7c3f2-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/5d1b88c876d0c93a20bc4f302e1c6f60-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/be7ab5b4a9750e3b6ab82c1c0690ab55-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/02276e92ba7ce998b1260a11bd2f4525-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/8f62ada77fd4f099ba14ca3de9c348a6-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/788828fc898ddf7332501a01877549bf-p_e.jpg"
+    }
+  ]
+  },
+  {
+    "landlord_id" : 1,
+    "city": "Arima",
+    "address": "159 Churchill Roosevelt Hwy, Arima",
+    "price": 2200,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "amenities": [
+      "Pool",
+      "Kitchen",
+      "Parking",
+      "AC",
+      "Laundry",
+      "WiFi",
+      "TV"
+    ],
+    "carouselPhotos": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/a9718201932365e284a0a42b5448668d-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/361605baf84e88ab1890af7e4b84b21a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/76ead5ef56546048151dec93a7b8376f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/430dd986aa38a67c9ba43ea54ae5a740-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f9f65ace6670b5f94a1b64ddcfa09e4c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6f4825396c3a3a4519371a8913873159-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/e46da4b784b05c69466b12c408858c32-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/63a2ad3ddd255fde570958a06e6afdbc-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7a017a34204bdd6801923a376ae9c96e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/2f3f865d0c71605cb6b4b559d9d2d41d-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/217be30062667db3231f46cfc159c638-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/fbb4186a06441632b7d464c89f9b93fc-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/067109831dd1b95edb09db1622e25346-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d5e266abcb977d6f6205b1e7829915f9-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/97bca625f4c764e9ee2d7cc425316c86-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a5310398142018044a418fda99d45328-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a0a708670c1d5b0778a90ea90425a336-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/02cc8e149697ef78fd3645ea433e4dea-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/46ec087f98a1bc1628bd9d07a68b3e1b-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/697f30f6cb41f5e5212c6e04d2516d1e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/672782712885b2d17a61370d4244e669-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/1f969d5e49c09bab9f53e03f1b3fb3a4-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/de67ee5df9019eafbd156481aea19c26-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/58493541130050298cb235c48ceb9250-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/eb2098b1340513013afdbad2387a9eac-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/8ab77a85812660a0bddac2632057efe0-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c6a87775d8e10c2efb9087749328cb6e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/2aba77e81e0e7bd212ebaa68d359cbed-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/981d5da0a3add1d3f1e069f8e023fb37-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d64f8d4cd3aa0f3475afcb2b9d71167c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/5601bf2426930025d5f3dfd3af0b9a46-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f3630908660e2be68c4eabfa658745f8-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/22ad7b644b0d57310b487a7124cfac0c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/1810a875e8cc0df7540fc1393f3a2c38-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/3e2d9f82584469f40915f825c8c5663d-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/1689ac4b90f15d0f38a248d7bf1df32a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/459c03b0afe41268327b7e5b6ecc3b18-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ab7cf96d9b09802cbe560c543d69e9bd-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/bd0c71b84c560cb87e061e18a696a37d-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6f1a93c396db5c725700752607108f03-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/939879ba6154a192ba118bd6ee32c4d0-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/4b5513841805d6fefb11e7c5de055b8f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/0b38c0c64c115b8f39aff3ae29303131-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c3dc2de80da46b3e611c2405c765d4e2-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/cd53acba6f3d6b02a7801de0694543d1-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/06419237dd41a61df2782acf3fa68c36-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d3ef8228c5654e0abf7729d0a8616cfc-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/18d7bb8f21d166843726dd0fccedde38-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c18e7dcb34e24c1fea40d9280ef3b832-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a2e03b4481f35d433c26e7d2cbe9a2d9-p_e.jpg"
+    }
+  ]
+  },
+  {
+    "landlord_id" : 1,
+    "city": "Mayaro",
+    "address": "18 Independence Sq, Mayaro",
+    "price": 2500,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "amenities": [
+      "AC",
+      "Parking",
+      "Kitchen",
+      "Laundry",
+      "WiFi",
+      "Pool",
+      "TV"
+    ],
+    "carouselPhotos": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/a88c0cffdce5787f8f41cba143ef9917-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/4555da13f769a3ac142bcb9faa1aecb1-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/51678fd7894afeaef0516b715fb2770e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/de3fe771f1b5eabeb700ceea9bba9067-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/63b91dae33aaa059bc9e991d16f91fc9-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/8177cdf30a1e4f312650e543078f1bc2-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f3b1e6e48b60732ad49e9e337b91fab6-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/3898a05fbbb1db11c914eb3475f7c38a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6d381dd1efc9a78c926eeed0f9719c0e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/45ee542fbc7be85b9036c4ddac2c9312-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/72d07b21c0e110aa3701517ccb8a6b1e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/5a7191dc0630a33705a795b5dd70ecba-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/12d8ca4773434b9fdca8ea651e8f44da-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/352a7daddc732d30c75c2920e4c2e89c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a3d3cfc7f06e62608f65f305ba763d80-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/85f41a4cead7b68b37db4a5262a22152-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/cd61ae586f4b565e42063e1508aaa91c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/81eaa8c59c2bb44d55405606fcd99332-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c4204bb88e39a69dee10ea8c91d79212-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/edea1b3806160700f2dd12b202a6ca4c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/cc865b2255c0df363f10bcfd32e2ad84-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/aa408202a581b6b5c0fcdac710db09b0-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d0ba1ac556048b54ceb9a345bbe5449e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7ec6ce48853a2c466d56bc0e6d059189-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/9762666df1efb39a0b29ae11dcf47748-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7642089a48b36862f80464f012d2e315-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a019002e0af4fa9d7e0d05cd41e850c9-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d339ebc4c9cc4b22cf8f1764e9be57e9-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d8b6604fad3e4c03209bf17ab8df3eee-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/1417c31cd3ee94338cb1dc98a5947981-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/bb9111961504c11cd50eff7384e74499-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/fe93b229aa00b0b51f740487efc83f06-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f020466d4cd051688e455fb12f6fc32e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/1a197058c790aa3b8ee8ae23e2175317-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6fa1dbe1a079064a2d8c34b1c292dcd0-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b36fe34ce2d01ac38087b298fb3f723e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/253fcad3ea13215cc040f6544a3f4cdf-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f28399caecef47e5b93cfe914613dc35-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/02f1ab6130bceab91550fa703a72854a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/522de8c4d6ca4f1487e899749fd6f50f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/1b4f5e6fe1fc74aa1b50cfb03d1b645e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c901469fe6b9a8c4534b24653a25ca83-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/02099fc9df6d4e4e2222e0a34a899c4f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f18ef9eb82c77b1d27934f3c9eab45b2-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/3efa5792dbad33fb7928af3f13d08257-p_e.jpg"
+    }
+  ]
+  },
+  {
+    "landlord_id" : 1,
+    "city": "Sangre Grande",
+    "address": "112 Eastern Main Rd, Sangre Grande",
+    "price": 3800,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "amenities": [
+      "Pool",
+      "Kitchen",
+      "WiFi"
+    ],
+    "carouselPhotos": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/10e2f1f0a7b8ae76b0738579eeeb2244-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/e78e65fc365e58df79c6f2ab62ac94ef-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/8fccd282816cc21fd93c4dab0ec16551-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/cf85f3cdb1475d2c5aa0c52f3f7aeda9-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/82176412bd5e78c126c04f71c337a543-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/56446803b3b772a58312d41f652b493f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/5c34ff94d86b227f4d7f24b9be01cb25-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/aa724dce095fb48bee3f4d7652b495a0-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/9643419dd99ee4666266f621c598a722-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/9256243c9baf78618d73f61cc34cf1ef-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/0e50dad6ab4d04a8dadb05a615fa667e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/bef179ea01ffd3b7a462e6d899e517e4-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/cfaa998c80821dfe4ae685c401f6fbf7-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/378cb9e42bf1692f547914fa07b27899-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ed8d416ad32e87c1fa7827ec933d24f5-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f94f04cfb6b58a6a11f3c3f292bd825f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6c5052f41a009f3c270d5d1aff5c77c0-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/69fc382ac0b6d22a86c0ef226565f850-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/4b0659267a3a34c7621be8f9971699d8-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/15bc18b82018bc06397a034202796280-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a517ac63f6910e015bc2dfb2e9a9aa92-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/4a0d52b0610454b90cea7def46466dc4-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b6d9a7b92ef07d310d7e40b12984f98d-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/2bbdc0253151d6c9de225e8dca986a79-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d1f283277908dee312c63f0e5fed6743-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/db5a635dc38da724e98f571087b89c1e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/eab5ece49d594f2d8253858e0ac0060c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/50f0d98f1df6919b42a7dd4d7cab6744-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d5f5345342eefed432b3d918fcc23d45-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/0236119601ad7e12d93d999ed490e839-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/3bd42c856b15482be7ad058e36222c76-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c02f0580f5895bab34ff2b99c237c0df-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/98fd36ae506b87accace718c3aeeff37-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7514d37018c9dfae7636bb0808906c8c-p_e.jpg"
+    }
+  ]
+  },
+  {
+    "landlord_id" : 1,
+    "city": "Point Fortin",
+    "address": "138 Independence Sq, Point Fortin",
+    "price": 3300,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "amenities": [
+      "Kitchen",
+      "TV",
+      "Pool",
+      "WiFi",
+      "Parking"
+    ],
+    "carouselPhotos": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/5ecd20c3a1990502a81f7d650e53bcc5-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/9a640e07aa6ef4cd9c1638fcca074938-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a1120d30574e05675ce40b46acd71e11-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/4ceb05a24254acb7d93a20e74403a12c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a5b38ba8a05a3c727a4d1c5b8df6c281-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/9366999c0f4635541d6fbcaee98c65d9-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/be585535cf3c9e411ba8583f0815b0f6-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d66293c819da8c81bb2ee2350af77881-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/3529724a77c1e703ac88bb93be716957-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/8961d0a2ad25074e448f717be195effe-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/451275ec053208551e74a7461116eafa-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6ec69ba0946fe0463aa57879531a0fce-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/5b1da3d1f281f9f1ffbc76118319faa2-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/53cc3916f7971409e38a9004c28b1251-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/8599fcf7015017dbdf7625091a89e3f0-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/930b8cd41115a306b2e5426e19625524-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d8ba4f6ee0330d592050c97119660069-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/31457259ff4de120914019e6b09568ff-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/080d3232bee8ebcd8f6a53b44838f452-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ad20d533726c9b23b6ec7dc170d844de-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/1e360bf4e38fea1654a48d442eec73fc-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d5c43738e7936c93f517fa99e55a59f1-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/8c29ec81fd3fc0f32f31684428f9e866-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/2ea8920b8d5569203032d30a87569b37-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/39c683b76cd7b4354aa8548adc1f741f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b92656ec60e7f721d6a9274a2d45e785-p_e.jpg"
+    }
+  ]
+  },
+  {
+    "landlord_id" : 1,
+    "city": "Tunapuna",
+    "address": "85 Queen St, Tunapuna",
+    "price": 3800,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "amenities": [
+      "AC",
+      "Kitchen",
+      "Laundry",
+      "Parking",
+      "WiFi"
+    ],
+    "carouselPhotos": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/1a8ecfaa11140a1db3ab7e73b8b70ef0-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/3dc868721056829747e19d4e2c4b61bf-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6514c3e3a4fc09a93f8f8e6eaecf9dc1-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/8d85ffa7264d1c70534590385108c957-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/9c800a75ea2e636dfccee5f0418a6277-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/883b589d848240f19c01e4c870a53c19-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/8b861e22c38e8bfbed40c5263d948a21-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d500a245974330a9e5f3d5aebfc037f5-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d31a7f3f1c0c1048b3e4a11e450fa7fb-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/717d3f6026c49b54817137748836e28b-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a722a48fc306c639f05a750d65392f38-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b9b22f10151b089c73ad6dc3dd72118b-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/93af6acb6178ae4b5bb59e131c9d767a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/37f4509cb1b6b3c8c6602f9ff8b78acf-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/32245c682fbd5f0c39ac3889d24af9e5-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/47c589b812c62a57a9d4960601eabd05-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c5defb9388148f7ea77b0ae43060d68a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/9efdff46f53443ae75ba21dd1fea4756-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d194347af4ac395bef1e37ccfccc1226-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/0d0bd6e3708835319e0c12cbec2ef148-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f04e12d52920e01dcdc46f9b03fadde7-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f69c99f7c43c6e1fc9e146697c3ffa72-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/834d6c52a68fb1cfc7a7fab5e51ec5e8-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6a32020730d7fdac6b1ea682c0a6b83b-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6ba4061c73844ee13a3ba5e23041b53d-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/2e188a1dca6e6a089d1cd6288e661e1a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/80c117b77a7f87b6829b0713d1878e28-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/24e441d5dd93451c929692935c7da450-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a5c1603d2054d5359b0a588e4b453707-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/5602630f3676545ffbac22df89c063c6-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/352571645f9d55734ae69968872c9534-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/5c06b224ba5773c012915342248bc9ec-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ad267706da057138040c9875ffa86bf4-p_e.jpg"
+    }
+  ]
+  },
+  {
+    "landlord_id" : 1,
+    "city": "Chaguanas",
+    "address": "160 Independence Sq, Chaguanas",
+    "price": 2500,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "amenities": [
+      "Parking",
+      "AC",
+      "Kitchen",
+      "TV",
+      "Pool"
+    ],
+    "carouselPhotos": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/a8b7647a6d6fa687bf75b168a5592ae1-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a6706c5389970227de895bfc43a667ea-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c8fde14e10a61db80695d79e03fa5431-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b89771bf2af3e7ea986967ff37db4430-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7ddefe00d39c8c8803c705b92f3f091d-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/1ac4b4eafcd786f50de7ad8478d78bcd-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/17a1d2d95315dc530a0e74129ee51fed-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6d0855f3701bf1db9fb9290ed46d3e41-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a0b873deff70b6042449ecaeac24f6f6-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/4936d0c4d11f8a221e1cd73172a3b8bb-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/067562a09ca69451615bd60655b0f25f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b9193b40c9ee45a4fb183416bb55ca2c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c2699c5273a0ebb12c6f04cab945a77b-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/8559bb203cfeab890f143697305c20ac-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d042bd5de9e153c2d9f019699ec0a5a2-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/3672184bf99616c929b875d5b08d999f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7b1770d72019a23be01d8789607acf30-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/08e5bb85c57644af5fd55130926036f7-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/454f1227af7a16befc96269f4947f884-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/3813557c023c4e6b7b9c568ee5bdf14d-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/46e7f2c85a8ff151854d14ed3569be66-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6c569adb0510e60268c0d1af0cdd2b3e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/19d23f75f25520da029364a00ef29da5-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b7afd66d98e4c0572d73ffc4fd3312f5-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6ecf47af19546b4c3d80d8e2e42f42ed-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/05d1e4d890db67946a4ff15c641bde57-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f0a724815c337cc37ea0c56a28945e7f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/4c3b8de9046e9b1edb91d9c2b281c66a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/290bbd187b0ae917875a7efbaa3e38c4-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/11ee12eaa613769dc3e0b69ba12f0603-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d0f8fd6f9991627f85c2170d573b14b2-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/60688ae3eb974ff618f02e9d20279f30-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/2d02f7e29528395e77d87737f0c956f3-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/eac3d4776a1782d05969c28147f094d8-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/00a5cceef72841e414ecaeca984b72e6-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7e7a1ac762e7f1cb94d6fd7ceab41f15-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/85ea426e2288f21182fb91368aed6b98-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b95201a7f3da23ca2bd9e13aefb08d37-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/0dc0d8d1019bdfccb7f4dff4b201ba18-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c9c1c57d3b08540b098fb8a9c3e0a224-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d2c336109dbe0b787da57c098d9b4804-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/1acb4e254dd0bcb011701c38487c5d6d-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b9b6fe34671272c620832835034e51ac-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b1f8e18714ca93a670bddc0717001411-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/77157fad727751deaf042dd8341a5f6b-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/0392cc0a484d1c3e5a951a13e8ceca19-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/0242dbd62373420678139e40fac18a60-p_e.jpg"
+    }
+  ]
+  },
+  {
+    "landlord_id" : 2,
+    "city": "San Fernando",
+    "address": "85 Queen St, San Fernando",
+    "price": 2600,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "amenities": [
+      "AC",
+      "Parking",
+      "Kitchen",
+      "TV"
+    ],
+    "carouselPhotos": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/048e4927661b364622fd4a8ae4dbc249-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d7729f43cd63a6029c08de816ceb5662-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d8ae6582d0400b8de5ac71b5d8598005-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b84069bfb916accb1cf0b7f86a5d78df-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/9f7741a2000213020197fb21c4a9dbbb-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/fcba3dfc8ff5fe78f94f471b125d2e78-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/74888e2db2f7eee0266bd2dd5d910c9c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/53d6d6b47631c75fa6bf33537b57858f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b2541645bf27e654a64d54aba4c68802-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/791a51358dddb7c0e7f4c485133d9f29-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/5c39e3ca65a98147d90881307b950349-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d5ccf0ccc75296bf9fbe3f449b332727-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/fdebcbb178e858bfe7d9fbed5e717a33-p_e.jpg"
+    }
+  ]
+  },
+  {
+    "landlord_id" : 2,
+    "city": "Arima",
+    "address": "58 Main St, Arima",
+    "price": 3500,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "amenities": [
+      "AC",
+      "WiFi",
+      "Laundry",
+      "TV",
+      "Pool"
+    ],
+    "carouselPhotos": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/13ee43dee9009b0d2a8963fd7c0d4e2b-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/dde27275aec3999352ab9b4376d8f4fa-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7e00819bbd65cce866cd7b022e3519b0-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7e54d6184ae56f0836e7630e24e52d29-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/dfc5356066388ca3cbef263015bde003-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/e05766c949bc4b4ec396e08f6f2e76a6-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b9009d8612b9da0e2c4f633444ff657a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/8ea0ab2eed29f5b1120fbf8392462d88-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/57e97aac05cb9a7c777032aca1ef9768-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/8e62aef3940238dd2d23c7c0a892616f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/55720a7cd0f325c534ecb01876bf8083-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/712c89e0ca4521a6582999da608bdae6-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/215d54a191c5780a5f87677ee6498b58-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/e4198e1f537479d1727126215a23d608-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/77d6f99598646f0340f1e7b85a72615b-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/1c33a631882d2e943b132869f753d2c2-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a1e2e84407b2da85ae7769c2da5d0e5a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a24b2393ce232d03c0b9fe4df99f9619-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a13f8d73febe773b4057bc347d9a0908-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/43883add6373ccc275a840ff3581f48c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/40c574736f1d8bfacc6b7fbddc7719a9-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/e7b5c20f71a2b925f3aa193694d039ce-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/e9c4e4c2e091acd8f7a15b6d11e40d1a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/0ba8b731e2e0a7e062352c9264d884ff-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/2de477c8993f192d686b181fcc318e21-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/5712447a39825ee6dccd0eae555ce61a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/67cf25e2882fc10ebc0029a2b2faffb7-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/81b508fae45b048bb4776e0b58fb86b0-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/895ea8d388c7943c2acc5ccb482bc0bc-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/e74311c38d91be1fa1298088a74b988f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/26becf4ecabbd57005cabb414eae387e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c5a3b6c6773cd1fd93309d35683a0461-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/113368223b5ee24462d9cfc1daf143bc-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7825631644bdfb8db6c44c4b808df330-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/eacf9b6669c67b3f4584ed649ba03690-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/9c8c22a481eb8d4086c44c996f8feefc-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6dcd3a41f600bbcd1599d40950249701-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/521b64b4922b1647b5c293cbf122bd5b-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/739a958f343133487730c68ea2b18acb-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/0c9ef70e3279c8f7d1845896cc3afdb1-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b3ca2fe2d8233b57185454e9e1c7aecc-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/3c8070a06f1988830ddb8002e2646b43-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/997288a0b9efa9bc8c3ca577d03c08ef-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f0c6e133c776741de5018a8fafe9855c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a57a4f08c4e9761b968949563deb91f8-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ab9f5cc59918720b1d15eaffb609bf01-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/59ecc1719198a5d6fad9dd0c5fcae2ae-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/614cce5895915ea02476bb2cd871fc03-p_e.jpg"
+    }
+  ]
+  },
+  {
+    "landlord_id" : 2,
+    "city": "Tunapuna",
+    "address": "53 Queen St, Tunapuna",
+    "price": 1800,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "amenities": [
+      "TV",
+      "AC",
+      "Laundry",
+      "Kitchen"
+    ],
+    "carouselPhotos": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/de507266ec0bbb5af7c33aab22bd8cde-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ab44257d161e3c8ca2311630c45ec2d6-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/2b72129a0298d6513ba36fbe65354baf-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/79bc36b080dd05e7f18e6050b01998c8-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/40881e111bae47db9d0ab0eed8e50848-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/187de8a95e71d53d0bb9e9db1490845d-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/5b3057bbc92ea50422db5d403acbe4d6-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/aa3e4253c4942291c031b479f6dfeb9b-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d79a2f6847b137b76facab2ab58e8b87-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/bbbaaa1d1dd4858f1736f22ea94b12cf-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/bf9d7b7372b9247c4ca1ba5c019dea7c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/330585ef4e7b2ee5d6bd61ddcb785c44-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b2b497a48303c35526666a9834ed1604-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6a206c3405eddb42c8b86fd470b34441-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d5ad224883fc2f88902c60aa02cd508a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/3f300eaa4a8e1b751a7cf8d5be387df1-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ceb0ce6d2230adce8f62d9ebe4da8a5c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/8fb1bd1d1e9ed12f2f5f4e8d8e2a04db-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/4172f326085435fb6924500cd4a6e9c7-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6ed9cb0f17331c2d739f7cab46f171e1-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/cf281954d4dbc5eb90db97de28e2a8d7-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a1c772e047c2a482bdf7285594190071-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/efb612769a36b37e1db75b49c4f967fa-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/010b76777d940d28d920c96eeda837b1-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6fabc4a58c6980938b7896308e460486-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/638bd7da6da72a720312ac1142a6695d-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/4caca00076a281456a400fffe179c524-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f68d3963abcbf3829f77e1ffcd7bba95-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b443984f49e87db1e89db64ee2a0e851-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/9ac6c1c515b21ce57f078935165b232d-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/9c2a8a2c0cd1d924f1ad01a2f0d749bf-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ddafa51f6d18cb597875db0340968a81-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/472a8c406e3ed87a2c5362f77839cf6c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/1be873367e6cae882cc92cf7f672f798-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/cf3f46819e360c569f16b7010e70cbfb-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f7bf878ef92f793842fc686af071dc1a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f6793097c0d95332f18c6195922630f7-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/e7c10c90798aaf8dd2b0d103d144c812-p_e.jpg"
+    }
+  ]
+  },
+  {
+    "landlord_id" : 2,
+    "city": "San Fernando",
+    "address": "113 Independence Sq, San Fernando",
+    "price": 2500,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "amenities": [
+      "Laundry",
+      "WiFi",
+      "TV",
+      "Kitchen",
+      "AC",
+      "Parking",
+      "Pool"
+    ],
+    "carouselPhotos": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/53699546c9be792f9c44bb2845887ad2-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/2004d7d5f5a5199a9d480502e5c5e0b9-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b543e4dab964f1862e5161259b1d0a8a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/3dc70e9a61bb1e64568d00df27b93f7e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/fc3ed2aa7c83491ce5305dccffc7ce3e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/43482ec6257442bdcba04e2156e2a2e5-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f9e5d9c9d8ff04448aad5cf4b47ba247-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a2889f8bcb46a9e5b07743bf8d9d4db6-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7d625206de243ddb87de1becb81652f9-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/677d3fb3a6680e8e61edca0b2c8ab377-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ac0a0c3487912c6c5701e37f00d57ae5-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b8f7996e38b0d65f5451e8e366ee8008-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/e82a7b4098d8a5f8f8dc73180fcdcc30-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/146f6c9dc8f88d67394f0b27307a7dda-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/56bfa0b3718b0e7e75a803a0954f8e72-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7dba3170d77b091a5604d104a68198e0-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/9c5649d3f7a6a5fd674ef34f08c7abe5-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/746ee2edfa9965fdfbd295a18befa23a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/90527f5a15bbeca24cf1f9722e515cc0-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a36796a2fd33b8f425a3d0db566acd55-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/0d7873293599cd2c8cc08a8d02708b54-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/cb7199156f4c0105e805c2daad757519-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/fe04fe47bd96333509cb772c3b5cd52d-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/2facf3aa82767f675028d67a5409b905-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c55c558151a12839aeb54306320aeade-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/fe5639bf1d5f808e40955557c12f8312-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/0d03156c84551d5a02d93f1567fa16f7-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/eafb0a33f7e0ccebd1ac6aa1dd41cfc9-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/cf09533cbea7ecfb9fc2f2e232b87773-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/69f644546990f74d0cd055c9a623eea6-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6f66254cbfe909c62236ad23799b4986-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f5cf67b76b6a834edbff0e447904e84f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c344fe41807ded4ab573de8c67a81b5f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/159834c0225d83b9b02d55485cea8ee1-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/249c6b6fb73c1d08ab96b6d3251c3d44-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ab430b88610f6a9b6532a9d59d4040db-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/2da28cc4d23c7a52b9f0311044c0a03a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/1ce12089f1294539032165bc1ee43aeb-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f60c6ea3ff38360df755e99715247950-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/52ab518e325650ab0a77c6b77e653dcf-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a704fab0e3a4324ceabb0100ad0f721e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/02218e31efed26f8cd35ab2009730230-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/fb762be97b419d85c4bfdd9fca5933c7-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/eb87846c8108113ca9f1163d7dedb595-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/1d2692d98fbcbe180cf5a290c8c748b7-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f1c4c5b8ca9cb80696aa09a3ea4b125e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ceda43f6d07e47f7229ecad8ecb2a3c1-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/0c6dfb924a5420c5d94ff75b3b776ca2-p_e.jpg"
+    }
+  ]
+  },
+  {
+    "landlord_id" : 2,
+    "city": "Tunapuna",
+    "address": "43 Eastern Main Rd, Tunapuna",
+    "price": 2000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "amenities": [
+      "WiFi",
+      "Parking",
+      "Laundry"
+    ],
+    "carouselPhotos": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/b46b3aa02d176c7e0cfcf57af588dcfc-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/bc171bb4641e9ded1df00756f388cd5a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/867a4ff3cdaa5f55494faa5fe94e68a6-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b93e474947f3db6ab3e53ae72f191d59-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/048f0278426d6eb36ad10257bedfdfe6-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a27b2c49a19c75452db0354b25efb3af-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c00715f423dea533ba01cc85477077b2-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/e6ff5ae1a26a454f0825ab47db384d05-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6b5744a3407b4ae8da5caafc6a7bd123-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/87ff7a5ddcbd4145c0da8fe38d609e46-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/73b0a508b6bab01f5381605114af95de-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c2e1439eb77ecd3ca25b1584f6620866-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/2ca5bb8ffe433d0759cfe75c287322e3-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ea4d690339ba5daa060d8c90dd4bd575-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f49de4af206160bed03a8f76cd2f471a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/06d72393973983858c363d0a0d073136-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7cfb608324123ec98c720510ba5596ff-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/14a488943cdab5dadb0c98d686180dee-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/77ad8abeb8eb65c84be627bbf8d3bb43-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/aca324e84db022794f0f70c5741332db-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/17b3029f26d4c73e5a723768c6b4ac01-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/3248756466bffd77c0fc11508b930bad-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/04e9db36153647165af8ce40ecd1e8f1-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/93bae835028e7da80679730675b896e3-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/5b548f92f62822dcb7e0b91bbfdfcf4d-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/34a945c82af875e681e8b96b9aa552a3-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/0422cfe10159b21976391f0b045a733f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c91f052fe3d1535a078985a55189fffd-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/de50ec2a1d9d8abb8be4ea3323ce87af-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/56d43361edb18cb519ddb3a144690ebb-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/5d6a8aced8cfe058ccb5eebeb88e4cc5-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/966ec40a8a6cdb6a10b86b4a7f508628-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/1947ce01a36ca405a1dada1fa3b03576-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/07ea5f572951c000aa6d5f5531fb1837-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/4027a4df536ef792cd026310a20c66b8-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/8e77a4856d5d2351d09581ccab82153c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/69e58e7d83bb97353c240e5e67df24b0-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b2fe5f7ded1b695bb32eb19a2a436533-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7ad9a21af12d1322eeb9a38b5799057e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7838593c30c5d6e7827b21aaea3df73c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/bb6510fafbadb6f55e33ed33b2e9dab0-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/df65ce966bb4e3fccb33798fff3fb72f-p_e.jpg"
+    }
+  ]
+  },
+  {
+    "landlord_id" : 3,
+    "city": "Chaguanas",
+    "address": "36 Churchill Roosevelt Hwy, Chaguanas",
+    "price": 3000,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "amenities": [
+      "Kitchen",
+      "Parking",
+      "Pool"
+    ],
+    "carouselPhotos": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/5767edf268e974b69ac4654a9abd0f2a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d44274fde95f301d12873eacdc0ae7ab-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/0202123c1ea300127734d0fbb3d0bf9c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/36260a96dcd9fdb65960da0bfbaea8e2-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/fe783816af9054bdae26dfe0785e4dee-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/114f70a8e6ace8354fa253badd396c08-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/4c2be15e90ad6d7510a60cd291d03ab1-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/39fa0340f8614f5ba5307be103cdc017-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/58f1ea43268166375c8bbc520597358c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ce8850aac6842f7ab1a0ee0b6e2c3898-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/36f01d74e15db759df8999bb15910644-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7fefe65695874f3849e50f160bb4138b-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a0ad9b6354d607bd5ef6051a4c72f29a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/8047b2b8e59c2649edbe78575ec494dc-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/fee63f9ae1f1e257f9bdbaf4168d27f9-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/0d5467b9ed25de97d0e829943293f52c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/810467e9162692ce8fa829eab91f4230-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c23e7e1999c787b47957f7f44c78a314-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ff538f267fd018364d425314bcdc20cd-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/feaa6e76aa2f63dbbab6b70d23c583be-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6ddc11ee611edd1b73342fefb7c3070e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6c177b9ef5ced68d5840d05487621078-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b80fd9dbc5253e80aa507d76edffca5c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/e69b0454f35c9e17fb3855a57456ceb1-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/9e1a462cb2ac6d3f631fcd7466d36ecd-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ab46b766086ee851954e2d8d341ea757-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/19ebda0451053d917d82a5dbd234cb95-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/e134683f943dd60153cbb83f6f33e33a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ee03e46626b3b21bdcb4a02f29c1c766-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/75c61d8100f2506f665b44ecce36a1fe-p_e.jpg"
+    }
+  ]
+  },
+  {
+    "landlord_id" : 3,
+    "city": "Point Fortin",
+    "address": "8 Churchill Roosevelt Hwy, Point Fortin",
+    "price": 3300,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "amenities": [
+      "Parking",
+      "Kitchen",
+      "TV",
+      "Laundry",
+      "AC",
+      "WiFi"
+    ],
+    "carouselPhotos": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/538ccc012346647566b714d56db2b2a5-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/2cc93f5826ea6ce7f938bfa9365db86e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/deb93240062ab9a95ed38b1a1244a919-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/e663b3843b46a3309280967c110eee8a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/58f0d7ffa58d07a735c9e8ffafb4b674-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/38009569a48659edb964c93acfc599b4-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/2ad43c58bd9cbaad4baaf92b07cc7422-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/30bfcaef3601d5b0e3fc3cf4f1da9326-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/847a1fad5b8f26bdc444b905afc3c44a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/be3bc6aac75a3bb157ff387a826718fd-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c36334c09685d3904f033779e1c3ef09-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a87d710612a89a653719e747ff8767f7-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/932c64cdab3341829d3af849ace021c6-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/1b1ca346cb2573ac9a6ee87d52a0cb8f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6de8bbbea1ede6a39232fcef51498e60-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6baf4757bc2529c7d2e7d7dcfc23eb6c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d43f7383214454890830a8c8eb7654fa-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/eeec99d036c058bb502cb25cbeddc9db-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/dcd70d13d56ac91b5f1e38b05c13e69e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/43072a3924cd08d1bc230124660cd860-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/8eb9eb23d0d21dfe2eae4f294703347c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b3b176fbd14924e0012d0ff15b2ae2b4-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d7fd325820bb5c6c132766ba12665bc2-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7fe113cfd9869312e1fc513b4664e2da-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/919af223f751ca1f261abfd9fb66e16f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/4540406fbba10f028349114415922d69-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/fc6125c27c4c2b70ca213aa2f02a2432-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/63cef36dc1fc0fe23e1e8518c0f972c5-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/5328295103fdd29d0abf4ee1e9aa3fb7-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/81fd3cd752186e9c4329538cfaf34a4b-p_e.jpg"
+    }
+  ]
+  },
+  {
+    "landlord_id" : 3,
+    "city": "Chaguanas",
+    "address": "82 Independence Sq, Chaguanas",
+    "price": 2500,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "amenities": [
+      "Kitchen",
+      "AC",
+      "TV"
+    ],
+    "carouselPhotos": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/3c9085ede3b14d37ef516050eabfb3ec-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/233d36c4bdc5d1c1799843254d980e40-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/148b65a1213d75a7dfd522bac9d9f0a3-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/84fced0cadb4959f6b53259fd3ee9e8b-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/71d5a7f63a14b6ff2ed8b6922a72450d-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/5fa86f0e3fca70b3eda6111ddf97b1a1-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c8f86e3824124c38ccba7b9ade4e63b1-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/efcaccddd1d8efc24d87adddeae89878-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/bead97a11fca3dfb34bfafdcb657631b-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/53f873db7bfb26cdd039353957edb8de-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/78bdaf57e0206c6749be581c874bc00d-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/804b5e395f0deff131abeb8c6a4a4ea2-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/68fa89c70f986c36a43c6652d0bb9153-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/8bd7110e4daa1286a6a09f5d5e47a98c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c62746950b5ad147835c7d7fbb453970-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6199ddc5e84bbc00309811120865f00f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/3197895f8e50cfb8ceabbbebf90774c5-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/fa32a5c8bfa54a0d74946712745fa48a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/25a323d1052c72e7f6c8876d8628fb17-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c9b3037db54b2e215bc979ec76cfb589-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/e66edaa4a97cb081aaeb2e457e83a684-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/0610f62be828240fb4173fb5c990b8e2-p_e.jpg"
+    }
+  ]
+  },
+  {
+    "landlord_id" : 3,
+    "city": "Arima",
+    "address": "80 Main St, Arima",
+    "price": 2000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "amenities": [
+      "AC",
+      "Parking",
+      "WiFi"
+    ],
+    "carouselPhotos": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/76c2386938de261e950f307069148b2f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/46a2f9ef9641a649ac0711a67622e6c0-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d64d1215d71a2c6d88e42bd9b863b336-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/5872ba826a1ea020966589d0a72f40e1-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/17bc120ac59a618a3eab5d09789cfe8e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6e2a037a614b8fa740af1af7cbeb69ca-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/0e9340a153fc6e93373a0aa47304d31f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7c70ff318fa7121bcdd7f355ed1223ec-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/e1a3f70060f90567a9743c009cbd8f72-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6283f274d600f77a3dffc0aa8ab7f9ff-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/98c56f35d156d606a18900c3a711775d-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/de7411bb347b4879f94be37ef14bea09-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c95e28854ad1bef7ec4134cac57cdca7-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/09c6dd10a1fbd59f3cb1d21b0913a3a1-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/9b48fbbd79e83666e4404b9f6a205ba8-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/8b28911c8cfa1f322093f18e1adc8ed3-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/e7966257afd313d034d14d37f51445f7-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/4559da29319e3d4b56d69b9bdedfb9f9-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f766f915c6abfb3db578e0abac03e5f4-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/82dc99390402dd00af7da4810a8de1f3-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b183b4f1410be914b5f89fa32855c661-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a103daa102b5a6e3133f3713e4505332-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/afcad1dc43533db50373aa99e058a23b-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a2ec8303649026aef6b092bac66d1ca6-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/5619f1fbd8ffe1af6ee3d3efa934e533-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/20c0ac5f9bbac7cdae24365e04e6bad0-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d815bcc423d4839e93333ce15f6adfd9-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/1b79177c2dc03c30f6a7ab8672e13b43-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/273f5228c6c5704edef8feac94b34309-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/578f4e6083667e6303797742f73a6162-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/5906adfd173d46a72a37b200ed1b0c93-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c61e3ed906343873c9c66cadb1339254-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7189475344f9d1e14fffdc12ce77eafd-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/2f2d2740863e6f36bbc368b60165baba-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/57be2d5621d2f5c1190fa45977533c39-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a64321cd96a9dd7697ec6b98e3453a54-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7a4d1e30ebaa80503260a5ef8d0cd9fc-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/4ff8fd4f0df307aef074ec0245ecf062-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ba9dc73025bce4ec24c32a4ce4319aae-p_e.jpg"
+    }
+  ]
+  },
+  {
+    "landlord_id" : 3,
+    "city": "Arima",
+    "address": "112 Independence Sq, Arima",
+    "price": 3000,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "amenities": [
+      "Parking",
+      "WiFi",
+      "TV"
+    ],
+    "carouselPhotos": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/4607f6943e34eddfe2b3a2e5b827d625-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6d581a68fa5895d0e9c4a31e5d1ce4d6-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/0abdd6073dc3ba6689638e034e2d4439-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/bad9480c8b235c8619ab5c7bfe5ccbe6-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/3e87d5cb94cc52fc8ecbd2b4fb7fcda4-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/fe2e4acb897eccb5c5efa2956a7a6d24-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7c3bf42076e54c8d66b8f3098c0a3836-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/2d3a64f9d95535b7be4ae79849f9f1c8-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/39e53ecf7b6cfc593ad42e3a1305f862-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d8eba754053e77fc519df41b6bc94f6c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b891f7eca57c615948b4a4c19d78d1a0-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ed8aa5c628d2e9a580aba9fb62ad16b2-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/9e8f18462aaa413a74d94cf5e6dfc06b-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a8b4aa1de654fe9097f06ee143eab0db-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f90e476743c3809c0328d1bff735c5fd-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c090f06588232da987e56348bb60aa73-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/67efafea599a04e0179360caf01cfba0-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/3d6af1bbfe76e49eba513080f002364d-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/1f8c3329875efa51a7768bf60871a4bd-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/1bdd06303ffb86d40a54f4da94e81044-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/82537124128f84dbf98380170dc1846d-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/37c3cbcc371a12adf270ff9ca1dc7f54-p_e.jpg"
+    }
+  ]
+  },
+  {
+    "landlord_id" : 3,
+    "city": "Arima",
+    "address": "178 Churchill Roosevelt Hwy, Arima",
+    "price": 1800,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "amenities": [
+      "Laundry",
+      "AC",
+      "Kitchen",
+      "Parking",
+      "WiFi",
+      "Pool",
+      "TV"
+    ],
+    "carouselPhotos": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/7477325c571137eb6fdf9bb1f1092a25-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/a30ceeb7cf4d2bf8ffe4e9a815c554c5-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/fb1d00367953b7bec5987cf803f236e1-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/2e3476b43b3baa1c4abc23f323dc9972-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/beaa41f0bb7a0d2641a76e6b17c601b4-p_e.jpg"
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/bca1104d6b38ddde013489a5717999c4-p_e.jpg"
+      }
+    ]
+  },
+  {
+    "landlord_id" : 3,
+    "city": "Mayaro",
+    "address": "235 Eastern Main Rd, Mayaro",
+    "price": 2500,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "amenities": [
+      "WiFi",
+      "Kitchen",
+      "TV",
+      "Pool",
+      "AC"
+    ],
+    "carouselPhotos": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/d408e8389a1a3fe4e1ae78daa2946b61-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/5cf6536eb29c64acec8eb50f7a463070-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ff0f10c4f866912730987f18743fa014-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b1d28da589681b0ca0a240c254466f6c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/e79792a8827035e221ac9138d5b75a56-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/df03c4f014438573b3e0aa77c07b99bb-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/48e566ca85386e8f011cca3a24f5a241-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6388e316e86a03aa3e23622fc1ba1daf-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/01848bd32b29e2ee493a2262c15b04a9-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/e2d9b63753a2ce5495eae4951e3f17ac-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/28b9c1ebae8fdb6402d5b2f06c4c8505-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/8cffbd8d1e7bce68fd0c9a4b14368abd-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/9a9f383163c410e7dc21859363994d3f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/8d5f2ee6dc1260c489e201c12ff97b02-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/359ae3de90f6a6e4997b09467f7bd2b3-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/916d74aa5dfb0d64be469d4468f49bf7-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b5ac32f7bbf5f884e165a1ab203e09d2-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a6dc5fdac512f446fe689240ee339178-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6ab1256b09e8362ef1c0907f8e9808a5-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a55f2fa6a1f969e74fbf7e22cc0a89d9-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/fc2e3899985213b611b18a2aa4d2ab87-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/46c3919b57799ffaa0e4e9cd74e56134-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6c12ea58317d2cedaee2aa90e45f3c54-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/bebf57dda486c63fc8a68f5cf6ca16bb-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b6c791d6e6596b34796d7a4407c322f0-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/416f01cef8467189d3e81646908f2ee5-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7b49049e3bb08756ba5f9cf40751c576-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/0011d2e978c20de3a355a5cfe220ed8a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/83694c321a6de9359e31761c4a2fed48-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/0fe755c9e65b5d0cda1a4348e0ce18da-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/36fefe5c171cfc87bc46e878e0699fad-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/dc240bbbd1df9c934b468d134faf74b2-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ec4f345d53c27ca4e8db0358d0ee8c2c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/e005cfb1cfbf7c4bf8fbf13330ee9b2f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/5cb9e8ec35d7da9701c9294b44f8a8d9-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f6bfb27aaf0ab7a66d55dc023ffc62fc-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7b0e031e79f200786c51126784eebbd5-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6b321261d02dc949e6c9a0b253ace4eb-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7c0a42ba06878e7798f198cbea2d60e1-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/9a0e50e0f948833feeae6221a1061f31-p_e.jpg"
+    }
+  ]
+  },
+  {
+    "landlord_id" : 3,
+    "city": "Couva",
+    "address": "131 Eastern Main Rd, Couva",
+    "price": 2200,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "amenities": [
+      "Laundry",
+      "Parking",
+      "TV",
+      "Pool"
+    ],
+    "carouselPhotos": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/e08674da3adc54cda2fc3b75a6503f83-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/2fc08c2df54dd3d750d56a9b4e4c08bf-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/35a2e69c0e58c0e11507e4071517d36f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/1de7873e6617a0a9a0e3dd476b34680a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/4a4057b05061c23bb114d94e8c5abd6f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/5881ec50c70104ac52350793d0e5eec3-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/0d6b69f0bc6e7504c777a80bc58ae3d5-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/034270b8912aea66ea13977924e04b64-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/4b8ca7b5937cce7529628d40ab383b37-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/282ba2921e10a7627f784e5e62fa01aa-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c6ade660005305ed93281ec69e54bf12-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ebd75ae234b52c44971c0dce729e7bff-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7474d2ae2f79151855af16d91372040a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/8715676dcebddfbce496f44333042bea-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/11de8b88ca74e4725d0c3ccff1cbfac3-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/0d383f02b79e766a0e08786d4ff3b20f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/bf9e33b385b3918a74b94aee37abb543-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/bd8569d29fd4c2ab78ac02cdef2fe08e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/38893b9d5ff325375fe86760a4524a6a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/49eea5b049622b4bea2e0fdccf80e042-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/eb11e10400a6e90bb7530b0326a90466-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/5268a7e84066bb3c6f9c6f69e298ba32-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/82555e61496363f2827650fb50eb00ef-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/51507c2b9a68c5cc30ee0f06bbf85e75-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/bb16a50cb4672e0e95e96bbe9e5b60d4-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a4eaa7b7a8928e6aa1127a62fa5c9a97-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c60a3125b26b241c7f9900fa37ec23be-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ff663024c9081c48042785dc7bccd48e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/710f9e09b5b5d3beb522374066acbaaa-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f772b9f848ce6cac44973dbd827dfcc9-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/2158d7e6d7974cb5ca8cbf90c8b8d7f2-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/9ec30764297e1023c3caf4e235ff3ee6-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d88868a057a139817856dcea393e3503-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/bf5fff4ad6eab28c0f427de1c8011b36-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/df9083559e3dc24ced3aeda962cbf66c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/54959a01cbddafb03cc99bb61014e3ca-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/204d21ef874b17208e65bf30b835e8ba-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/0dfd6d396a2b52d18640613c16839cb9-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/93010f10ad5a370b5b893c7080267e0c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/00ecd4b78b07be4f7216a549db36a1f1-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ee1dc1a1019b1c6b4e13a680256cd903-p_e.jpg"
+    }
+  ]
+  },
+  {
+    "landlord_id" : 3,
+    "city": "Couva",
+    "address": "214 Independence Sq, Couva",
+    "price": 2800,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "amenities": [
+      "AC",
+      "WiFi",
+      "Laundry",
+      "Pool",
+      "Kitchen",
+      "Parking",
+      "TV"
+    ],
+    "carouselPhotos": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/2a5b9a5d283497f05da1983036d4e2d3-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/5158dbd6d29c7783ca28ded7c659a75f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/b30f9c4ee8035033dcb6b5f706e85459-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/defea159191ba587ea8b69f370d533bd-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/4c80f1038060e9a0a49b8435b52ab7e5-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/da6767dcbab7ab175630df7d8fcaa852-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ceda15f265b2aeca510e1cc62bee3ae5-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/5a2678dbdc1ddef0d2684ee57230e85a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/88242b104fb80c85a046cd4d9d7e1e52-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6daede7ff3fedd914e62043ca4f47464-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ace3feb43ac51e9634c7feae7f771eba-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/729bcae0e355a9292b05afd33060f5c0-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/52b16b258b5a7ed5ff04dc357eabb16f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/4211aaa31f759750b8b97bdf8c094071-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6522d91fa6ae5fb3f616ef1be0edd1ab-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/aa4fbe5adca2aa4e425449cc11d8a163-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a20e8e09d34fe25472081f34a42cedd3-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/07c1c4ce5eb7bcafbc617696ee03ba72-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ab9562077d8ca335ef05ed5702d86955-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/856143e09d655b49e533330add3f452c-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6b850554f32afa58ed002fa29e38cfe4-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/3c1e4343fbad64bd9c061725f1cbd483-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/799a643569ada34b070367d8514fbb99-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/e3f27c246766c1f485dad50973b94f27-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ffe23e71b62cbb728f32a4aa6aaa7c53-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/3d955617b706fac47f515460cc039087-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a899c49223994f3ebb5b304d6dc5015e-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/3de4afe2ffa4976838d85580b01c82c7-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f8714731a0e8f67147251a0bcfb49296-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/3bb5d506d66fe81a1bb69bca6e73670a-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/64c5f8b9f0274c7c0798dbdb1e2aad0f-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6c434fc53b9c45e791c3f5d6e975fb2d-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/fd6743856c82710db5b1a5ab91702d5d-p_e.jpg"
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ff2dc0654f0209a943088b1b4e46fab5-p_e.jpg"
+    }
+  ]
+  }
+]
