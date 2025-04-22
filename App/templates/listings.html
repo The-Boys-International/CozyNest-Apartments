@@ -6,14 +6,12 @@
 {% block content %}
   <link rel="stylesheet" href="{{ url_for('static', filename='CSS/listings.css') }}">
 
-  <!-- For main block -->
   <div class="container">
     <h1 class="page-title">Listings</h1>
     <div class="search-container">
       <div class="sidebar-toggle">☰ Filters</div>
       <div class="sidebar-overlay"></div>
-      
-      <!-- Sidebar  -->
+    <!--sidebar for filter--> 
       <aside class="sidebar">
           <div class="sidebar-header">
               <h2>Search & Filters</h2>
@@ -54,7 +52,6 @@
           </div>
       </aside>
       
-      <!-- List -->
       <div class="apartments-grid">
         {% for apartment in apartments %}
         <div class="apartment-card">
@@ -73,7 +70,7 @@
             <p class="card-location">
               <i class="fas fa-map-marker-alt"></i> {{ apartment.city }}
             </p>
-            <p class="card-price">TT${{ apartment.price|number_format }}/month</p>
+            <p class="card-price">TT${{ '%0.2f' % (apartment.price,) }}/month</p>
             <div class="card-amenities">
                 {% if apartment.amenities.wifi %}
                   <span class="amenity-tag"><i class="fas fa-wifi"></i> WiFi</span>
