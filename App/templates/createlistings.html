@@ -1,0 +1,88 @@
+{% extends "layout.html" %}
+{% block title %}Welcome to CozyNest{% endblock %}
+{% block page %}Landing Page{% endblock %}
+
+{{ super() }}
+  
+  
+  {% block content %}
+
+   
+  <link rel="stylesheet" href="{{ url_for('static', filename='CSS/createlistings.css') }}">
+<body>
+  
+  <div class="container">
+    <h1 class="page-title">Create Listing</h1>
+    
+    <form method="POST" action="{{ url_for('user_views.create_listing') }}" enctype="multipart/form-data" id="listing-form">
+
+      <div class="form-group">
+        <label for="address" class="form-label">ADDRESS</label>
+        <input type="text" name="address" class="form-input" placeholder="Enter property address" required>
+      </div>
+
+      <div class="form-group">
+        <label for="price" class="form-label">PRICING</label>
+        <input type="number" name="price" class="form-input" placeholder="Monthly rent in TT$" required>
+      </div>
+
+      <div class="form-group">
+        <label class="form-label">AMENITIES</label>
+        <div class="amenities-grid">
+          <div class="amenity-option">
+            <input type="checkbox" id="wifi" name="amenities" value="WiFi">
+            <label for="wifi"><i class="fas fa-wifi"></i> WiFi</label>
+          </div>
+          <div class="amenity-option">
+            <input type="checkbox" id="ac" name="amenities" value="Air Conditioning">
+            <label for="ac"><i class="fas fa-snowflake"></i> Air Conditioning</label>
+          </div>
+          <div class="amenity-option">
+            <input type="checkbox" id="kitchen" name="amenities" value="Kitchen">
+            <label for="kitchen"><i class="fas fa-utensils"></i> Kitchen</label>
+          </div>
+          <div class="amenity-option">
+            <input type="checkbox" id="parking" name="amenities" value="Parking">
+            <label for="parking"><i class="fas fa-parking"></i> Parking</label>
+          </div>
+          <div class="amenity-option">
+            <input type="checkbox" id="laundry" name="amenities" value="Laundry">
+            <label for="laundry"><i class="fas fa-tshirt"></i> Laundry</label>
+          </div>
+          <div class="amenity-option">
+            <input type="checkbox" id="pool" name="amenities" value="Pool">
+            <label for="pool"><i class="fas fa-swimming-pool"></i> Pool</label>
+          </div>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="bedrooms" class="form-label">Bedrooms</label>
+        <input type="number" name="bedrooms" class="form-input"
+               placeholder="Number of bedrooms" required>
+      </div>
+    
+      <div class="form-group">
+        <label for="bathrooms" class="form-label">Bathrooms</label>
+        <input type="number" step="0.5" name="bathrooms" class="form-input"
+               placeholder="Number of bathrooms" required>
+      </div>
+  <!--image drop box-->
+  <div class="form-group">
+    <label class="form-label">Images of Property</label>
+    <div class="dropzone" id="dropzone">
+      <i class="fas fa-cloud-upload-alt"></i>
+      <p>Drag &amp; drop pictures here or click to select</p>
+
+      <input type="file" id="fileInput" name="images"
+             multiple accept=".png,.jpg,.jpeg">
+    </div>
+    <div id="file-preview" class="preview-grid"></div>
+  </div>
+
+  <button type="submit" class="submit-btn">Create Listing</button>
+</form>
+  </div>
+
+  <script src="createlistings.js"></script>
+  {% endblock %}
